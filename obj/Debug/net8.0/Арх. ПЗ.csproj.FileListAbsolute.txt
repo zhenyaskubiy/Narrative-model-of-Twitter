@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\Арх. ПЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\Арх. ПЗ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\Арх. ПЗ.AssemblyInfo.cs
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\Арх. ПЗ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Арх. ПЗ\bin\Debug\net8.0\Арх. ПЗ.exe
+C:\Users\user\Desktop\Арх. ПЗ\bin\Debug\net8.0\Арх. ПЗ.deps.json
+C:\Users\user\Desktop\Арх. ПЗ\bin\Debug\net8.0\Арх. ПЗ.runtimeconfig.json
+C:\Users\user\Desktop\Арх. ПЗ\bin\Debug\net8.0\Арх. ПЗ.dll
+C:\Users\user\Desktop\Арх. ПЗ\bin\Debug\net8.0\Арх. ПЗ.pdb
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\Арх. ПЗ.dll
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\refint\Арх. ПЗ.dll
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\Арх. ПЗ.pdb
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\Арх. ПЗ.genruntimeconfig.cache
+C:\Users\user\Desktop\Арх. ПЗ\obj\Debug\net8.0\ref\Арх. ПЗ.dll
